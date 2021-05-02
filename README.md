@@ -10,7 +10,7 @@ Description of Project: Using Kaggle’s Box Office Prediction Data set located 
 
 - Data Acquisitionist: Christine Dorward, Lea Stavoli
 - Data Analysts:  Christine Dorward, Sarah Lazio-Maimone, Adit Shetty, Mind Tienpasertkij, Lea Stavoli
-- Programmers: Adit Shetty
+- Programmers: Adit Shetty, Mind Tienpasertkij
 - Writers: Mind Tienpasertkij, Adit Shetty
 
 # Techniques to Apply
