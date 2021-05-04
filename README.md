@@ -26,7 +26,11 @@ Description of Project: Using Kaggle’s Box Office Prediction Data set located 
 
 ## Useful Kaggle kernels
 https://www.kaggle.com/gravix/gradient-in-a-box
+
 https://www.kaggle.com/artgor/eda-feature-engineering-and-model-interpretation
+
 https://www.kaggle.com/kamalchhirang/eda-feature-engineering-lgb-xgb-cat
+
 https://www.kaggle.com/somang1418/eda-lgb-xgb-modelings-with-a-cute-panda-meme
+
 https://www.kaggle.com/takedown/tmdb-box-office-revenue-prediction
